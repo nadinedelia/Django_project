@@ -26,7 +26,7 @@ SECRET_KEY = 'pdx8z^fe(i33z+f8uq2(ha@z*@b8rbmh0f)vp@q2)r0_cw*e9o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['trackmyjobhunt.herokuapp.com']
 
 
 # Application definition
